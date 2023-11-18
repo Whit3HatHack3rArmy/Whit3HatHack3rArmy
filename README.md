@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kali Linux & Flipper Zero. Enjoy learning about new tools and programs used to exploit vulnerabilities in target hardware/software for further exploitation.
 - 🌱 I’m currently learning Powershell, Python, C+/C++ languages and further knowledge on Kali Linux tools.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me Discord Server: https://discord.gg/hackingcoding
+- 📫 How to reach me Discord Server: https://discord.gg/KHd9twFR4t
 
 - If you are looking for an awesome resource on the interweb for a starting hacker. You are in luck!!
 
